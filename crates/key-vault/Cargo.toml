@@ -1,0 +1,8 @@
+[package]
+name = "key-vault"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zeroize = "1.8"
+libc = "0.2"

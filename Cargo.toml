@@ -1,0 +1,3 @@
+[workspace]
+members = ["crates/bundler-proxy", "crates/key-vault"]
+resolver = "2"
